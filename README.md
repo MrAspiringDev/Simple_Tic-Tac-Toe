@@ -1,2 +1,2 @@
-# Simple-Tic-Tac-Toe--Java-5
+# Simple-Tic-Tac-Toe--Java
  
